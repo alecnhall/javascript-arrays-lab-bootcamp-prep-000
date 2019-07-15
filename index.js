@@ -6,5 +6,8 @@ var kittens = [
 
 // Add your functions and code here
 function destructivelyAppendKitten(name){
-  return push(name);
+  push(name);
+}
+function destructivelyPrependKitten(name){
+  
 }
