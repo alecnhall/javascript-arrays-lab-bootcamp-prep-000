@@ -9,5 +9,5 @@ function destructivelyAppendKitten(name){
   push(name);
 }
 function destructivelyPrependKitten(name){
-  
+
 }
